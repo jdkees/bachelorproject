@@ -14,6 +14,9 @@ Afterwards clone the repository
 To add and commit use either
  
 > git add <filename>
+
+or
+
 > git add *
 
 Every commit must contain a commit message
