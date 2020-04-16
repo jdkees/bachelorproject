@@ -28,6 +28,9 @@ The changes are now in the HEAD and must be pushed to the master repository by
 
 > git push origin master
 
+To update the repository, execute
+> git pull
+
 For more information about GitHub usage: <br />
 [GitHub guide](https://rogerdudler.github.io/git-guide/) <br />
 [Structuring .md files](https://help.github.com/en/github/writing-on-github)
